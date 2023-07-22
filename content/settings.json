@@ -1,5 +1,5 @@
 {
-  "domain": "drogariaapolinario.netlify.app",
+  "domain": "drogariaapolinario.com.br",
   "currency_symbol": "R$",
   "primary_color": "#0077b6",
   "theme": {
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/drogaria-apolinario.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#023e8a",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/drogaria-apolinario.png",
   "store_id": 51410,
   "description": "Drogaria",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/drogaria-apolinario.png"
 }
