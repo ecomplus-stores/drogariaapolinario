@@ -50,13 +50,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
+      "page": 1,
+      "title": "Medicamentos"
     }
   ]
 }
