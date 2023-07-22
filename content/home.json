@@ -36,9 +36,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "64b453815e6069037066aa10:categories:Gripes e Resfriados:/gripes-e-resfriados",
       "sort": "offers",
-      "title": "Super Ofertas",
+      "title": "Gripe e Resfriado",
       "headless": false,
       "limit": 12,
       "page": 1
