@@ -38,7 +38,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Super Ofertas",
       "headless": false,
       "limit": 12,
       "page": 1
@@ -53,6 +53,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
