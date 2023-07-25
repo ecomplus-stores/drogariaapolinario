@@ -25,7 +25,7 @@
       "type": "brands-carousel",
       "limit": 10,
       "offset": 0,
-      "autoplay": 1000
+      "autoplay": 5000
     },
     {
       "type": "collection-shelf",
