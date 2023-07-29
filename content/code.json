@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "a { text-decorantion: none }",
   "html_head": "",
   "html_body": ""
 }
