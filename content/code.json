@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\n  display: none !important;\n}\na:link {\n  text-decoration:none !important;\n}\na:visited {\n  text-decoration:none !important;\n}\na:hover {\n  text-decoration:none !important;\n}",
+  "css": ".product__short-stock {\n  display: none !important;\n} \na:link {\n  text-decoration:none !important;\n}\na:visited {\n  text-decoration:none !important;\n}\na:hover {\n  text-decoration:none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
