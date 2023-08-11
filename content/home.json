@@ -22,10 +22,16 @@
       "enabled": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 10,
-      "offset": 0,
-      "autoplay": 0
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "649596765e606903704647c8:categories:Beleza:/beleza",
+        "649596475e606903704647a4:categories:Medicamentos:/medicamentos",
+        "6495969a5e606903704647e3:categories:Cuidados Diários:/cuidados-diarios"
+      ],
+      "shelfs_title": "Promoção"
     },
     {
       "type": "collection-shelf",
